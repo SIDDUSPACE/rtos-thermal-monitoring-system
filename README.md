@@ -29,7 +29,7 @@
 ## 🖼️ Visual System Architecture
 
 <div align="center">
-<img src="assets/diagrams/system_architecture.png" width="90%" alt="System Architecture"/>
+<img src="assets/screenshots/system_architecture.png" width="90%" alt="System Architecture"/>
 </div>
 
 ---
