@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+*.bin
+*.elf
+*.map
+
+# ESP-IDF generated files
+sdkconfig.old
+dependencies.lock
+managed_components/
+
+# VS Code
+.vscode/
+.history/
+
+# Python env / ESP-IDF tools
+.python_env/
+.espressif/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
